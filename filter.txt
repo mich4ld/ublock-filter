@@ -7,4 +7,4 @@ pliki.meczyki.pl
 meczyki.pl
 i1.kwejk.pl/k/custom/plyta.png$image
 i1.jbzd.com.pl/custom/pyk.mobile.png$image
-https://bit.ly/pykpyk2
+bit.ly/pykpyk2
