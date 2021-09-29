@@ -8,3 +8,8 @@ meczyki.pl
 i1.kwejk.pl/k/custom/plyta.png$image
 i1.jbzd.com.pl/custom/pyk.mobile.png$image
 bit.ly/pykpyk2
+
+portal.librus.pl/ad
+portal.librus.pl/images/base/*
+files.librus.pl/img/2*/*/*/*_LS*
+portal.librus.pl##.article-list > div:first-child
