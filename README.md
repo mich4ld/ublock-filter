@@ -9,3 +9,6 @@ My personal uBlock Origin filters.
 ```bash
 $ curl https://raw.githubusercontent.com/mich4ld/ublock-filter/main/filter.txt > filter.txt
 ```
+
+### Hosts file as additional layer of protection
+Check my repository: <a href="https://github.com/mich4ld/hosts"> @mich4ld/hosts </a>
