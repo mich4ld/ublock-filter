@@ -1,15 +1,14 @@
-cdn.onnetwork.tv
-cdnt.onnetwork.tv
-video.onnetwork.tv
-wlfuksiarz.adsrv.eacdn.com
-i.imgur.com/veJFK8T.jpg$image
-pliki.meczyki.pl
-meczyki.pl
-i1.kwejk.pl/k/custom/plyta.png$image
-i1.jbzd.com.pl/custom/pyk.mobile.png$image
-bit.ly/pykpyk2
-
 portal.librus.pl/ad
 portal.librus.pl/images/base/*
 files.librus.pl/img/2*/*/*/*_LS*
 portal.librus.pl##.article-list > div:first-child
+cdn.onnetwork.tv
+cdnt.onnetwork.tv
+video.onnetwork.tv
+pliki.meczyki.pl
+meczyki.pl
+wlfuksiarz.adsrv.eacdn.com
+i.imgur.com/veJFK8T.jpg$image
+i1.kwejk.pl/k/custom/plyta.png$image
+i1.jbzd.com.pl/custom/pyk.mobile.png$image
+i1.jbzd.com.pl/custom/pyk.desktop.png$image
