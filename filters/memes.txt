@@ -8,3 +8,6 @@ i.imgur.com/veJFK8T.jpg$image
 i1.kwejk.pl/k/custom/plyta.png$image
 i1.jbzd.com.pl/custom/pyk.mobile.png$image
 i1.jbzd.com.pl/custom/pyk.desktop.png$image
+jbzd.com.pl##.jad-default
+jbzd.com.pl##.jad-above-content
+jbzd.com.pl##.jad-rectangle
