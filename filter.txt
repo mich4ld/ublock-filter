@@ -18,3 +18,5 @@ jbzd.com.pl##.jad-above-content
 jbzd.com.pl##.jad-rectangle
 jbzd.com.pl##.sidebar-premium
 m.jbzd.com.pl##.user-mobile-panel-premium-banner > [href] > [src]
+kwejk.pl##.a-campaign-overlay
+kwejk.pl/js/18.4fd56260ed0d05020140.js?4fd56260ed0d05020140
