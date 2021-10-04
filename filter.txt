@@ -16,3 +16,4 @@ i1.jbzd.com.pl/custom/pyk.desktop.png$image
 jbzd.com.pl##.jad-default
 jbzd.com.pl##.jad-above-content
 jbzd.com.pl##.jad-rectangle
+jbzd.com.pl##.sidebar-premium
