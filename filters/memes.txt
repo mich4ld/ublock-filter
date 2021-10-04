@@ -13,3 +13,4 @@ jbzd.com.pl##.jad-default
 jbzd.com.pl##.jad-above-content
 jbzd.com.pl##.jad-rectangle
 jbzd.com.pl##.sidebar-premium
+m.jbzd.com.pl##.user-mobile-panel-premium-banner > [href] > [src]
