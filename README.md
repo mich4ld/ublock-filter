@@ -5,7 +5,7 @@ My personal uBlock Origin filters.
 
 ### Installation
 #### Firefox/Chrome/Chromium/Librewolf
-- Copy and paste `filter.txt` in `My filters` section.
+- Copy and paste `filter.txt` content in `My filters` section in `Dashboard`;
 - Install `filter.txt` and import in `My filters` section:
 
 #### Brave Browser
@@ -13,9 +13,9 @@ My personal uBlock Origin filters.
 
 #### Mobile phones:
 1. <b> Firefox </b> </br>
-On Firefox just install `uBlock Origin` and paste `filter.txt` to `My filters` section in `Dashboard`;
+On Firefox just install `uBlock Origin` and paste `filter.txt` content to `My filters` section in `Dashboard`;
 2. <b> Brave </b> </br>
-On Brave go to `brave://adblock` and paste `filter.txt`;
+On Brave go to `brave://adblock` and paste `filter.txt` content;
 
 ### Hosts file as additional layer of protection
 Check my repository: <a href="https://github.com/mich4ld/hosts"> @mich4ld/hosts </a>
