@@ -5,6 +5,7 @@ My personal uBlock Origin filters.
 
 ### Installation
 #### Firefox/Chrome/Chromium/Librewolf
+Install `uBlock Origin`
 - Copy and paste `filter.txt` content in `My filters` section in `Dashboard`;
 - Install `filter.txt` and import in `My filters` section:
 
