@@ -2,7 +2,8 @@ portal.librus.pl/ad
 portal.librus.pl/images/base/*
 files.librus.pl/img/2*/*/*/*_LS*
 portal.librus.pl##.article-list > div:first-child
-portal.librus.pl##.clearfix.app-downloadcdn.onnetwork.tv^$third-party
+portal.librus.pl##.clearfix.app-download
+cdn.onnetwork.tv^$third-party
 cdnt.onnetwork.tv^$third-party
 video.onnetwork.tv^$third-party
 admin.meczyki.pl^$third-party

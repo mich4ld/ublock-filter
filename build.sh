@@ -7,6 +7,7 @@ for f in $(ls filters);
 do
     echo "===> Appending filters from $f:"
     cat "./filters/$f" >> filter.txt
+    echo >> filter.txt
 done;
 
 echo "===> Filter created succesfully"
