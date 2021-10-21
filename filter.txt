@@ -1,3 +1,5 @@
+https://d25c7zns3afbj4.cloudfront.net^$third-party
+
 portal.librus.pl/ad
 portal.librus.pl/images/base/*
 files.librus.pl/img/2*/*/*/*_LS*
