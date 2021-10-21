@@ -1,7 +1,7 @@
 cd "$(dirname "$0")"
 
 echo "===> Replacing filter.txt"
-rm ./filter.txt
+rm -f ./filter.txt
 
 for f in $(ls filters);
 do
