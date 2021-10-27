@@ -1,4 +1,5 @@
 d*.cloudfront.net^$domain=dzone.com
+lowcygier.pl##.alert-adblock
 
 portal.librus.pl/ad
 portal.librus.pl/images/base/*
