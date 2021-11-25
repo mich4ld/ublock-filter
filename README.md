@@ -20,3 +20,4 @@ On Brave go to `brave://adblock` and paste `filter.txt` content;
 
 ### Hosts file as additional layer of protection
 Check my repository: <a href="https://github.com/mich4ld/hosts"> @mich4ld/hosts </a>
+
